@@ -1,9 +1,8 @@
+main {
+  padding-top: 2rem;
+}
 .testimonial {
   font-size: 20px;
-}
-
-.testimonial:first-of-type {
-  margin-top: 6rem;
 }
 
 .testimonial__image-container {
