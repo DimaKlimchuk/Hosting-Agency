@@ -57,6 +57,8 @@ main {
   background-color: #fff;
   color: #0e4f1f;
   font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+  font-style: italic;
 }
 
 .plan__container.free {
